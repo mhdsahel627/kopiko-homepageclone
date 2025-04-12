@@ -1,2 +1,2 @@
 # kopiko-homepageclone
-kopiko-clonepage
+https://mhdsahel627.github.io/kopiko-homepageclone/
